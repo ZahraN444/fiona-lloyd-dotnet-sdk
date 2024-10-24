@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnsightsIo.Standard", "OnsightsIo.Standard/OnsightsIo.Standard.csproj", "{a99f7c80-1a77-4c8a-8e93-b4ea73364a53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnsightsIo.Tests", "OnsightsIo.Tests/OnsightsIo.Tests.csproj", "{adb24d5d-047a-4cb9-8fcc-a05e0a29cdbf}"
+EndProject
+Global
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Debug|Any CPU = Debug|Any CPU
+        Release|Any CPU = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {a99f7c80-1a77-4c8a-8e93-b4ea73364a53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {a99f7c80-1a77-4c8a-8e93-b4ea73364a53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {a99f7c80-1a77-4c8a-8e93-b4ea73364a53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {a99f7c80-1a77-4c8a-8e93-b4ea73364a53}.Release|Any CPU.Build.0 = Release|Any CPU
+        {adb24d5d-047a-4cb9-8fcc-a05e0a29cdbf}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {adb24d5d-047a-4cb9-8fcc-a05e0a29cdbf}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {adb24d5d-047a-4cb9-8fcc-a05e0a29cdbf}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {adb24d5d-047a-4cb9-8fcc-a05e0a29cdbf}.Release|Any CPU.Build.0 = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(SolutionProperties) = preSolution
+        HideSolutionNode = FALSE
+    EndGlobalSection
+EndGlobal
